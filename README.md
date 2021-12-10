@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Resultado Mobile
 
 <h1 align="center">
-    <img alt="Web Home" src="./.github/mySkills.png" width="300px">
+    <img alt="Web Home" src="./.github/mySkills.png" width="900px">
 </h1>
 
 <a id="como-usar"></a>
